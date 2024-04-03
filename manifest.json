@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Nyx Dark",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(32, 18, 55)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(18, 8, 33)",
+      "tab_background_text": "rgb(215, 226, 239)",
+      "toolbar_field": "rgb(32, 18, 55)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(56, 30, 101)",
+      "popup": "rgb(43, 23, 72)",
+      "popup_text": "rgb(215, 226, 239)",
+      "tab_loading": "rgb(56, 30, 101)"
+    }
+  }
+}
